@@ -9,6 +9,9 @@ git
 Currently working to have the notes route work and am still working on that and adding an image. 
 Thanks and hope that being a tad late isn't a big problem. 
 The Activity Model 20 had a glitch that the feed href is no longer active. 
-Getting ready to log Heroku but having trouble with heroku create etc..
+Getting ready to log Heroku but having trouble with heroku create etc.
+
+Be sure to route to scrape and then to "/". 
+Afterwards if you click an image you will get to the comments liinks.
 
 
